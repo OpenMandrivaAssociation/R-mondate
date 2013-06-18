@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.9.9.01
-Release:          1
+Release:          2
 Summary:          Keep track of dates in terms of months
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)

@@ -7,7 +7,7 @@ Release:          1
 Summary:          Keep track of dates in terms of months
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/mondate_0.10.01.02.tar.gz
 BuildArch:        noarch
 Requires:         R-core
